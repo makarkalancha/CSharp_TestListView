@@ -1,0 +1,16 @@
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\ResolveAssemblyReference.cache
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.Form1.resources
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.Properties.Resources.resources
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.csproj.GenerateResource.Cache
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\bin\Debug\TestListView.exe
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\bin\Debug\TestListView.pdb
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.exe
+F:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.pdb
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.exe
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.pdb
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\bin\Debug\TestListView.exe
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\bin\Debug\TestListView.pdb
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\ResolveAssemblyReference.cache
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.Form1.resources
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.Properties.Resources.resources
+D:\SRC\C#_dir_workspace\Projects\TestListView\TestListView\obj\Debug\TestListView.csproj.GenerateResource.Cache
